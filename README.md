@@ -15,9 +15,10 @@ The keys respond to Click, Double-Click and Long-Press separately, enabling a la
 The head is designed to sit on the top of an existing grip. I don't really like the "ergonomic" control grips, preferring a simple round firm foam grip. I designed this specifically to fit a Galsflugel 19mm dia stick with an ESI Extra Chunky MTB grip on it, but it will likely work OK with many other simple grips.
 
 ## Software
-Several libraries are used in this:
-[Button2]<https://github.com/LennartHennigs/Button2>
-BleKeyboard - this is a great library, if it was maintained!
+A couple of libraries are used in this:
+* [Button2]<https://github.com/LennartHennigs/Button2>
+* BleKeyboard - this is a great library, if it was maintained!
+
 To get a working version pay atteniton to the following!
 ### In Arduino IDE:
 * Install esp32 by Espressif boards version 2.0.11
