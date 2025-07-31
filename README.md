@@ -1,9 +1,14 @@
-# RemoteXCSoar
+# BlueXCSoarRemote
 
-A compact remote stick for XCSoar based around an ESP32-C3 Supermini. The Supermini is very small and has both WiFi and Bluetooth LE.
+A compact Bluetooth remote stick for XCSoar based around an ESP32-C3 Supermini.
 Sends keystrokes via Bluetooth so only 5V power needs to be supplied to the Remote.
 
-It has a 5-way navigation joystick, three buttons around the joystick plus a PTT button at the bottom left. On the front of the stick is provision for another two buttons that can be either connected to the remote board or wired direct to other instruments. In my setup I use the lower button wired direct to an S100 for Thermal/STF mode switching. The upper button is reserved for future use if I need it.
+* 5-way navigation joystick
+* three top buttons around the joystick
+* PTT button at the bottom left.
+* On the front of the stick is provision for another two buttons that can be either connected to the remote board or wired direct to other instruments.
+
+In my setup I use the lower button wired direct to an S100 for Thermal/STF mode switching. The upper button is reserved for future use if I need it.
 
 The keys respond to Click, Double-Click and Long-Press separately, enabling a large number of keystrokes to be sent to XCSoar. In the default cnfiguration the top two buttons use the different clicks, the lower left button is ESC on all three modes.
 
