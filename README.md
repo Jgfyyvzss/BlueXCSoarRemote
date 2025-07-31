@@ -22,9 +22,14 @@ To get a working version pay atteniton to the following!
 ### In Arduino IDE:
 * Install esp32 by Espressif boards version 2.0.11
 * Download the [ESP32-BLE-Keyboard v0.3.2-beta]<https://github.com/T-vK/ESP32-BLE-Keyboard/releases/tag/0.3.2-beta> and install via Sketch | Tools | Include Library | Add .ZIP Library
-* In your Libraries folder (File | Preferences - Sketchbook Folder) open BleKeyboard.cpp in a plain text editor and find the line pSecurity->setAuthenticationMode(ESP_LE_AUTH_REQ_SC_MITM_BOND); Replace this with
-  // pSecurity->setAuthenticationMode(ESP_LE_AUTH_REQ_SC_MITM_BOND);
+* In your Libraries folder (File | Preferences - Sketchbook Folder) open BleKeyboard.cpp in a plain text editor and find the line
+  
+    pSecurity->setAuthenticationMode(ESP_LE_AUTH_REQ_SC_MITM_BOND);
+
+  Replace this with
+  
   pSecurity->setAuthenticationMode(ESP_LE_AUTH_BOND);
+  
 Then save and close.
 
 Now it should compile and it should reconnect Bluetooth on restarting the stick. No promises!
