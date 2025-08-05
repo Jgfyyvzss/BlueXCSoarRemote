@@ -7,6 +7,7 @@ A compact Bluetooth remote stick for XCSoar based around an ESP32-C3 Supermini.
 * three top buttons around the joystick
 * PTT button at the bottom left.
 * On the front of the stick is provision for another two buttons that can be either connected to the remote board or wired direct to other instruments.
+* Software is updatable via WiFi or the USB-C port is easily accessible from the top of the stick without any disassembly.
 
 In my setup I use the lower button wired direct to an S100 for Thermal/STF mode switching. The upper button is reserved for future use if I need it.
 
