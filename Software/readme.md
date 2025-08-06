@@ -11,7 +11,7 @@ F2 - KEY_F2<br/>
 ...<br/>
 F10 - KEY_F10<br/>
 
-When the remote first starts (power on) it checks to see if the TopRight button is being held down. If it is it goes into OTA update mode and starts the Access Point and webserver.<br/>
+When the remote first starts (power on) it checks to see if the TopLeft button is being held down. If it is it goes into OTA update mode and starts the Access Point and webserver.<br/>
 You will find a WiFi network called BLUEXCREM, password 12345678<br/>
 Once connected to that network you can browse to http://192.168.4.1 (make sure your browser isn't tying to force an https connection) and a page will appear allowing you to select a Firmware ( .bin) or keymap.txt file to update.
 
