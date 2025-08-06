@@ -1,0 +1,9 @@
+# Click,DoubleClick,LongPress
+Top,KEY_F1,KEY_F3,KEY_F8
+TopRight,KEY_F4,KEY_F5,KEY_F6
+BotRight,KEY_ESC,KEY_ESC,KEY_ESC
+Left,KEY_LEFT_ARROW,,
+Right,KEY_RIGHT_ARROW,,
+Up,KEY_UP_ARROW,,
+Down,KEY_DOWN_ARROW,,
+Centre_Click,KEY_RETURN,,KEY_ESC
