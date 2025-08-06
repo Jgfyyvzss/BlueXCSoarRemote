@@ -49,6 +49,7 @@ Only those keystrokes listed above can be included.<br/>
 * [Button2 library](https://github.com/LennartHennigs/Button2)
 
 Note 1: BleKeyboard.cpp has to be modified.<br/>
+In your Libraries folder (File | Preferences - Sketchbook Folder) open BleKeyboard.cpp in a plain text editor and find the line:<br/>
 Find pSecurity->setAuthenticationMode(ESP_LE_AUTH_REQ_SC_MITM_BOND);<br/>
 Replace this with<br/>
 pSecurity->setAuthenticationMode(ESP_LE_AUTH_BOND);<br/>
