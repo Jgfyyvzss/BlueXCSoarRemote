@@ -16,7 +16,7 @@ You will find a WiFi network called BLUEXCREM, password 12345678<br/>
 Once connected to that network you can browse to http://192.168.4.1 (make sure your browser isn't tying to force an https connection) and a page will appear allowing you to select a Firmware ( .bin) or keymap.txt file to /<img src="Screenshot_20250806-160720.png">
 
 The keymap.txt file is a simple text file that looks like:<br/>
- '# Click,DoubleClick,LongPress<br/>
+ \# Click,DoubleClick,LongPress<br/>
 Top,KEY_F1,KEY_F3,KEY_F8<br/>
 TopRight,KEY_F4,KEY_F5,KEY_F6<br/>
 BotRight,KEY_ESC,KEY_ESC,KEY_ESC<br/>
