@@ -3,13 +3,13 @@
 * Keymap can be updated without any change to Firmware. Easily change your button mapping at any time.
 * All buttons can have separate actions for Click, Double-Click and Long-Press. Possibility of 24 different keystrokes being sent (only 12 unique keystrokes can be sent at this time).
 
-Currently the following keystrokes can be sent:
-ESC - KEY_ESC
-RETURN - KEY_RETURN
-F1 - KEY_F1
-F2 - KEY_F2
-...
-F10 - KEY_F10
+Currently the following keystrokes can be sent:<br/>
+ESC - KEY_ESC<br/>
+RETURN - KEY_RETURN<br/>
+F1 - KEY_F1<br/>
+F2 - KEY_F2<br/>
+...<br/>
+F10 - KEY_F10<br/>
 
 When the remote first starts (power on) it checks to see if the TopRight button is being held down. If it is it goes into OTA update mode and starts the Access Point and webserver.<br/>
 You will find a WiFi network called BLUEXCREM, password 12345678<br/>
