@@ -1,0 +1,4 @@
+There are two PCB's. BlueXCRemote carrying the Esp32 and main buttons, and FrontButtons carrying the two secondary buttons on the front of the stick.
+
+PCB design was done in Kicad 9.
+PCB production was by JLCPCB who accepted the Gerbers with no alterations required.
