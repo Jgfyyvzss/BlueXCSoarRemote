@@ -4,3 +4,9 @@ I printed using a Cocoon Create Touch (Wanhao Duplicator i3 plus)
 The screw to retain the faceplate was just scavenged from surplus consumer electronics. Not too critical, just an approximately 2.5mm dia self tapping type screw.
 
 I have included the STL files here for a one-stop-shop, but the full file set will be available at thingiverse.
+The front panel should be printed face down with support. The more support the better, but it's a balance between finish quality and being able to remove the support.
+The main body is printed standing upright. I've filled the front holes and USB access with a thin web that can easily be cut out if needed to avoid messing with support.
+50% fill seems to produce a good sturdy print, but up to you to experiment.
+
+Retention of the main PCB is by clamping between the two body components, you may need to do some hand finishing of the board to get it to fit and locate correctly.
+The front PCB is retained by melting the vertical ribs in a few places. Use an old soldering iron tip or heat up a bit of wire etc. Don't go overboard, if you need to remove the PCB you'll need to cut off the melted sections and you'll want to be able to melt new areas when you replace it.
