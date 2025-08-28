@@ -2,6 +2,7 @@
 
 ## Features
 A compact Bluetooth remote stick for XCSoar based around an ESP32-C3 Supermini.
+* Entirely 3D printed. No need for machined front panels or joystick adapters.
 * Sends keystrokes via Bluetooth so only 5V power needs to be supplied to the Remote.
 * 5-way navigation joystick
 * three top buttons around the joystick
