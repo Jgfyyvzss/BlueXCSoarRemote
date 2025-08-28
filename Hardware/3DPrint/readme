@@ -6,6 +6,7 @@ The screw to retain the faceplate was just scavenged from surplus consumer elect
 I have included the STL files here for a one-stop-shop, but the full file set will be available at thingiverse.
 The front panel should be printed face down with support. The more support the better, but it's a balance between finish quality and being able to remove the support.
 The main body is printed standing upright. I've filled the front holes and USB access with a thin web that can easily be cut out if needed to avoid messing with support.
+An M3 x 40 socket head screw, nut and washer is used to tighten the Star Plug. Print two Expanders and three StarSingle's.
 50% fill seems to produce a good sturdy print, but up to you to experiment.
 
 Retention of the main PCB is by clamping between the two body components, you may need to do some hand finishing of the board to get it to fit and locate correctly.
