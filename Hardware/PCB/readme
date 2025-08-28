@@ -2,3 +2,6 @@ There are two PCB's. BlueXCRemote carrying the Esp32 and main buttons, and Front
 
 PCB design was done in Kicad 9.
 PCB production was by JLCPCB who accepted the Gerbers with no alterations required.
+
+The front buttons PCB in the first version only has one ground connection. 
+This could present a problem if you want to use one button via the ESP32 and the other to control another instrument directly if the other instrument doesn't use battery negative for it's signal ground. Possibly unlikely, but I'll add a second ground pad just in case.
