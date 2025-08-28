@@ -1,5 +1,5 @@
 # BlueXCSoarRemote
-
+![BlueXCSoarRemote model](/BSCSR_full.jpg?raw=true "Cad Model")
 ## Features
 A compact Bluetooth remote stick for XCSoar based around an ESP32-C3 Supermini.
 * Entirely 3D printed. No need for machined front panels or joystick adapters.
