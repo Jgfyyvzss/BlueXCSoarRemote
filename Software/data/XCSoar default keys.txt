@@ -1,0 +1,8 @@
+F1=Quickmenu 
+F2=Analysis 
+F3=Checklist 
+F4=FlarmTraffic 
+F5=GotoLookup (Waypoint) 
+F6=SetupAlternates 
+F7=SetupTask 
+F8=SetupBasic (Aircraft)
